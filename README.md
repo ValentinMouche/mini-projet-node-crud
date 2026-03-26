@@ -7,7 +7,6 @@ API REST pour gérer des tâches (CRUD) avec authentification JWT et PostgreSQL.
 - Authentification : Register / Login avec JWT
 - Gestion des tâches : Create / Read / Update / Delete
 - Middleware auth pour protéger les routes
-- Postman collection fournie pour tests
 
 ## Prérequis
 - Node.js >= 18
