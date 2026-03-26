@@ -1,0 +1,35 @@
+npm init -y
+Créer fichier package.json
+
+npm install express cors dotenv
+npm install --save-dev nodemon
+
+express : framework pour API
+
+cors : permet au frontend d’appeler API
+
+dotenv : gérer variables environnement (.env)
+
+nodemon (dev) : Redem serv auto
+
+
+/controllers
+
+→ logique métier (ce que fait ton app)
+
+/routes
+
+→ définit les endpoints (/api/...)
+
+/models
+
+→ interaction avec la base de données
+
+/middlewares
+
+→ fonctions intermédiaires (auth, logs…)
+
+/config
+
+→ config (DB, env…)
+
