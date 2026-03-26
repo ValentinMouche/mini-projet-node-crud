@@ -17,6 +17,6 @@ API REST pour gérer des tâches (CRUD) avec authentification JWT et PostgreSQL.
 ## Installation
 1. Cloner le projet
 ```bash
-git clone <(https://github.com/ValentinMouche/mini-projet-node-crud)>
+git clone https://github.com/ValentinMouche/mini-projet-node-crud
 cd ProjetCRUD
 npm install
